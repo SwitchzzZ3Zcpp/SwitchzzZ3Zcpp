@@ -1,0 +1,19 @@
+#
+#  Configuration file for BitWave Bio
+#     https://github.com/BitWaveOrg
+#
+
+user_firstname: 'SwitchzzZ' # Username shown on profile (Required)
+userbio: 'Мои мысли — это зашифрованные сообщения, а мои решения — ключи к их расшифровке.' # Profile description (Required)
+
+linkedin_login: '' # LinkedIn login (Optional)
+telegram_login: 'embrace_dev' # Telegram login (Optional)
+discords_login: 'switchzzz' # DiscordS login (Optional)
+steam_login: '' # SteamCommunity ID (Optional)
+instagram_login: '_root_directory_' # Instagram login (Optional)
+twitter_login: '' # Twitter login (Optional)
+website_url: '' # Website url (Optional)
+cv_url: '' # CV URL (Optional)
+
+profile_theme: 'dark' # Profile style
+profile_color: 'rgb(32, 34, 37)' # Profile border color
